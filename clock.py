@@ -4,7 +4,7 @@
 ساعت تمام‌صفحه با ۴ مود:
 1️⃣ Analog Clock
 2️⃣ Digital Orange
-3️⃣ Digital Green (هکر مود)
+3️⃣ Digital Green
 4️⃣ Timer Mode (با کنترل کلیدها)
 
 کلیدها:
@@ -212,3 +212,4 @@ class ClockApp(tk.Tk):
 
 if __name__ == "__main__":
     ClockApp().mainloop()
+
